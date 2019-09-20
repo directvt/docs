@@ -1,3 +1,3 @@
 # TermXS API Documentation
 
-Welcome to the TermXS API documentation repo.
+Welcome to the TermXS API documentation repository.
