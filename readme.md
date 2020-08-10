@@ -1,3 +1,3 @@
-# TermXS API Documentation
+# Desktopio Framework Documentation
 
-Welcome to the TermXS API documentation repository.
+Welcome to the Desktopio Framework documentation repository.
